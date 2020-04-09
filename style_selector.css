@@ -1,0 +1,18 @@
+.big {
+    color: blue;
+}
+
+.container .asteroid {
+    font-weight: bold;
+    border-color: green;
+    border-width: 1px;
+    border-style: solid;
+}
+
+p {
+    background: yellow;
+}
+
+body {
+    width: 17em;
+}
